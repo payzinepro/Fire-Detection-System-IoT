@@ -13,8 +13,8 @@
 LiquidCrystal_I2C lcd(0x27, 16, 2);
 
 /* ================= WIFI ================= */
-const char* ssid = "CANALBOX-3D44";
-const char* password = "MRLEE2022";
+const char* ssid = "";
+const char* password = "";
 
 /* ================= IFTTT ================= */
 String IFTTT_EVENT = "Home_Emergency_fire_alert_NOW";
