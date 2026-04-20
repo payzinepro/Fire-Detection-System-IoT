@@ -18,7 +18,7 @@ const char* password = "MRLEE2022";
 
 /* ================= IFTTT ================= */
 String IFTTT_EVENT = "Home_Emergency_fire_alert_NOW";
-String IFTTT_KEY = "hzJFKI5LD0sAbyAC7ddUaa873FCaPAuBbc9zXrme9Xu";
+String IFTTT_KEY = "";
 
 /* ================= VARIABLES ================= */
 bool alertSent = false;
